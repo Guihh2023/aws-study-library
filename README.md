@@ -10,7 +10,7 @@ O objetivo deste repositório é documentar meus estudos de forma simples, organ
 
 ## fundamentos
 - [O que é Cloud Computing](https://github.com/Guihh2023/aws-study-library/blob/main/fundamentos/modelos-de-servico.md)
-- Modelos de Serviço (IaaS, PaaS, SaaS)
+- [Modelos de Serviço (IaaS, PaaS, SaaS)](https://github.com/Guihh2023/aws-study-library/blob/main/fundamentos/o-que-e-cloud.md)
 - Modelo de Responsabilidade Compartilhada
 
 ## IAM
