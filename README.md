@@ -13,7 +13,7 @@ O objetivo deste repositório é documentar meus estudos de forma simples, organ
 - [Modelos de Serviço (IaaS, PaaS, SaaS)](https://github.com/Guihh2023/aws-study-library/blob/main/fundamentos/o-que-e-cloud.md)
 - [Modelo de Responsabilidade Compartilhada](https://github.com/Guihh2023/aws-study-library/blob/main/fundamentos/responsabilidade-compartilhada.md)
 
-## IAM - "IAM"
+## IAM 
 - Usuários
 - Grupos
 - Roles
