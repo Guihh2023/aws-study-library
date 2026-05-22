@@ -8,7 +8,7 @@ O objetivo deste repositório é documentar meus estudos de forma simples, organ
 
 # 📚 Conteúdo
 
-## Fundamentos Cloud
+## fundamentos
 - O que é Cloud Computing
 - Modelos de Serviço (IaaS, PaaS, SaaS)
 - Modelo de Responsabilidade Compartilhada
